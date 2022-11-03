@@ -7,5 +7,5 @@ Hi there, my name is Renata Monteiro and I transitioned into Tech in June 2022! 
    👯 I'm currently learning JS through the SheCodes.
    <br>
    💃 I’m currently working on my problem-solving skills and portfolio.
-<br>
+<br> <br>
 😄😄😄Join me on this walk! 😄😄😄
